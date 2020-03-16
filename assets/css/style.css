@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 img {
@@ -23,4 +23,8 @@ img {
 
 .lenker {
 font-size: 20px !important;
+}
+
+.lastned {
+    font-size: 20px;
 }
