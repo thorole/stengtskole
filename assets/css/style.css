@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+img {
+    width: 80%;
+}
+
+
+.center-content {
+    text-align: center;
+}
+
+.beskjed {
+    line-height: 23px;
+    font-size: 18px;
+}
