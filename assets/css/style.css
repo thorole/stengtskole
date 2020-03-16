@@ -14,6 +14,10 @@ img {
 }
 
 .beskjed {
-    line-height: 23px;
+    line-height: 25px;
     font-size: 18px;
+}
+
+.lenker {
+font-size: 20px !important;
 }
