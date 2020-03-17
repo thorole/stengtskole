@@ -12,6 +12,10 @@ img {
     width: 100%;
 }
 
+.top-divider {
+    border-top: 1px solid #000;
+}
+
 .center-content {
     text-align: center;
 }
