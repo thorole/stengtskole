@@ -53,3 +53,19 @@ font-size: 20px !important;
 .newsspace {
     margin-bottom: 35px;
 }
+
+.frame{  
+        width: 250px;
+        height: 250px;
+        border: 1px solid black;
+        vertical-align: middle;
+        text-align: center;
+        display: table-cell;
+}
+
+.gallery-img{
+        max-width: 100%;
+        max-height: 95%;
+        display: block;
+        margin: 0 auto;
+    }
