@@ -4,8 +4,12 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-img {
+.col-12.center-content.pt-3.pb-5 img {
     width: 80%;
+}
+
+img {
+    width: 50%;
 }
 
 .img-beskjed {
