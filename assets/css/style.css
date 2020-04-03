@@ -8,6 +8,21 @@ body {
     width: 80%;
 }
 
+.relative {
+    position: relative;
+}
+
+.overlay {
+    position: absolute;
+    background-color: rgba(21,21,21, 0.8);
+    text-transform: uppercase;
+    color: yellow;
+    font-size: 100px;
+    top: 30%;
+    left: 25%;
+    transform: rotate(-20deg);
+}
+
 img {
     width: 50%;
 }
