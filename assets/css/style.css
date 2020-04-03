@@ -17,9 +17,9 @@ body {
     background-color: rgba(21,21,21, 0.8);
     text-transform: uppercase;
     color: yellow;
-    font-size: 100px;
+    font-size: 10vw;
     top: 30%;
-    left: 25%;
+    left: 20%;
     transform: rotate(-20deg);
 }
 
